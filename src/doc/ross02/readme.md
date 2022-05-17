@@ -54,25 +54,26 @@
 #### 2 ОПИС ПРОГРАМИ
 
 ###### Структура програми
-
-> rossiiskyi-dmitriy
-> ├── doc
-> │ ├── ross01
-> │ │ └── readme.md
-> │ ├── ross02
-> │ │ └── readme.md
-> │ └── ross03
-> │ └── readme.md
-> └── src
-> └── ua
-> └── khpi
-> └── oop
-> ├── ross01
-> │ ├── Main.java
-> │ └── package-info.java
-> ├── ross02
-> │ ├── Main.java
-> └── package-info.java
+```
+ rossiiskyi-dmitriy
+ ├── doc
+ │ ├── ross01
+ │ │ └── readme.md
+ │ ├── ross02
+ │ │ └── readme.md
+ │ └── ross03
+ │ └── readme.md
+ └── src
+ └── ua
+ └── khpi
+ └── oop
+ ├── ross01
+ │ ├── Main.java
+ │ └── package-info.java
+ ├── ross02
+ │ ├── Main.java
+ └── package-info.java
+ ```
 
 #### 2.1 Засоби ООП
 
